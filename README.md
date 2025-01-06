@@ -12,7 +12,7 @@ This collection includes **29,105,351 unique Scratch usernames**, gathered using
   
 ### Download Link
 You can download the list of usernames from the following link:
-[Download Usernames.txt](https://www.mediafire.com/file/devvt8d4afhesjw/usernames.txt/file)
+[Usernames.txt](https://www.mediafire.com/file/devvt8d4afhesjw/usernames.txt/file)
 
 ## Notes
 
